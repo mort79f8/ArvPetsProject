@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvPetsProject", "ArvPetsProject\ArvPetsProject.csproj", "{437E5653-557D-4135-950A-37525830257B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437E5653-557D-4135-950A-37525830257B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437E5653-557D-4135-950A-37525830257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437E5653-557D-4135-950A-37525830257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437E5653-557D-4135-950A-37525830257B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE708C5-C944-4C13-A6DF-C94AEA79E4B7}
+	EndGlobalSection
+EndGlobal
